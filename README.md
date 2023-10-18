@@ -3,7 +3,7 @@
 <p align="center">
 Projeto desenvolvido de acordo com as aulas promovidas pela Rocketseat para ensino de tecnologias WEB. <br/>
 
-🚀 Tecnologias
+<b>🚀 Tecnologias</b>
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -12,6 +12,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Figma
 
-💻 Projeto
+<b>💻 Projeto</b>
 
 O DevLinks é um agregador de links para usar como cartão de visitas online para empresas ou uso pessoal.
